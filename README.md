@@ -22,10 +22,12 @@
 
 ![image](https://user-images.githubusercontent.com/45406197/189978970-a63f04ea-a48e-4683-a2a1-a44adfb4bad1.png)
 
-
-
+![image](https://user-images.githubusercontent.com/45406197/189979063-315c7d00-bc8c-43ef-9990-5b312e121e68.png)
 
 Создать индекс на несколько полей
+
+
+
 Написать комментарии к каждому из индексов
 Описать что и как делали и с какими проблемами
 столкнулись
