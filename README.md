@@ -10,6 +10,9 @@
 
 ![image](https://user-images.githubusercontent.com/45406197/189976290-13980527-0495-4c90-b213-774bc7fbd553.png)
 
+![image](https://user-images.githubusercontent.com/45406197/189976600-0141527c-17dc-417c-a5e3-847603c2bf1d.png)
+
+
 
 Реализовать индекс для полнотекстового поиска
 Реализовать индекс на часть таблицы или индекс
